@@ -1,0 +1,7 @@
+r_glsl_deluxemapping 2
+r_shadow_realtime_world_lightmaps 0.9
+r_shadow_lightintensityscale 0.9
+r_water 1
+r_glsl_offsetmapping 1
+r_glsl_offsetmapping_reliefmapping 0
+r_glsl_offsetmapping_scale 0.4
